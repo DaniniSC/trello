@@ -1,0 +1,38 @@
+img {
+	width: 100px;
+	height: auto;
+}
+
+header .container-fluid {
+	background-color: rgb(42, 123, 152);
+	text-align: center;
+}
+
+#tablero {
+	margin-top: 20px;
+}
+
+.botonHTML {
+	margin: 10px;
+}
+
+.lista {
+	background-color: rgb(67, 142, 169);
+	padding-top: 10px;
+	padding-bottom: 10px;
+	border-radius: 5px;
+}
+
+h3 {
+	color: white;
+	font-weight: bold;
+}
+
+h4 {
+	color: white;
+	margin-left: 4px;
+}
+
+.oculto {
+	display: none;
+}
